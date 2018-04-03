@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "792571959978",
+    "firebase_url": "https://testenotificacao-f8def.firebaseio.com",
+    "project_id": "testenotificacao-f8def",
+    "storage_bucket": "testenotificacao-f8def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792571959978:android:1f20eabb2e5bab53",
+        "android_client_info": {
+          "package_name": "com.olimpo.testenotificacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792571959978-s6b9m6vtve3kc7u9fv319lv8cpt67q9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJa2XITNNQQAZ1JXYhKuzrwd2nQYCe_Oc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
